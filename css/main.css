@@ -1,0 +1,30 @@
+.body {
+	background: #4B79A1;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	margin-top: 150px;
+}
+
+.header {
+	font-family: "Raleway", sans-serif;
+	color: white;
+	margin: auto;
+	font-size: 68px;
+	text-align: center;
+}
+
+.line {
+	color: gray;
+	width: 200px;
+}
+
+.linkedin-logo {
+	color: white;
+	font-size:48px;
+	margin: auto;
+}
