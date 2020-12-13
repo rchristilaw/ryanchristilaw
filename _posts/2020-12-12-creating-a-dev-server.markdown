@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creating My Dev Server from Scratch - Part 1"
+title:  "Creating a Dev Server from Scratch - Part 1"
 date:   2020-12-12 11:56:01 -0400
-categories: blog dev server ubuntu
+categories: blog development
 ---
 
 The following are the steps I have taken to build my dev server. Everytime I create a new one, I can't remember what I've done before, so the goal of this is to have some documentation which I can build on for the next one. I will be providing these instructions in a series of posts.
@@ -10,7 +10,7 @@ The following are the steps I have taken to build my dev server. Everytime I cre
 ## Introduction
 This first installment of the series will deal with setting up the base Linux system for a dev environment and setting up some of the basic utilities we will use later on. Remember, no dev environment is created equally, so take this with a grain of salt and not as a textbook definition of the perfect dev environment.
 
-## Hardware:
+## Hardware
 In the past I have tried several approaches (i.e. VM on my main desktop that is always running, VM on my laptop that I spin up when necessary, straight up Linux installation with dev dependencies running locally). This time, I will be running things on one of the laptops from my laptop graveyard:
 - Device: Toshiba Satellite L730
 - Processor: Intel i3 

@@ -5,6 +5,12 @@ date:   2020-12-12 12:00:00 -0400
 categories: blog propsbuddy
 ---
 
+![Props Buddy logo](/images/props_buddy_logo.png)
+
+Something that I've liked to write about for a while is how Props Buddy got started. This series of posts talk about my inspiration behind its creation and the process on how it got to where it is today.
+
+![Rydog Sports](/images/rydog_sports.png)
+
 ## Superbowl LII - February 4, 2018
 Things get technical. Introducing RyDog Sports Book, a name play on Bodog. Much like its name, the first iteration of the app was very much a work in progress. The first iteration was a locally hosted app, with hardcoded values everywhere, last minute hacks to get things working and a localhost address. In the fall of 2017, I began working on my pet project for several reasons:
 - Make the annual props process more efficient
@@ -14,7 +20,7 @@ Things get technical. Introducing RyDog Sports Book, a name play on Bodog. Much 
 The stack that I chose heavily reflected the stack that I was working with at work at that time.
 - Frontend: AngularJS 1.x
 - Backend: Java Spring Boot
-- Databse: Postgres
+- Database: Postgres
 
 Areas that I wanted to focus on were my UI design and database design. However, I quickly learned, that although I could easily add new controllers and services to my Java server, creating one from scratch was a whole other beast. This exercise drastically improved my actual knowledge of Spring, rather than just turning a blind eye to how it worked.
 
