@@ -18,13 +18,30 @@
 	text-align: center;
 }
 
+.tagline {
+	font-family: "Raleway", sans-serif;
+	color: white;
+	margin: 8px auto 0;
+	font-size: 18px;
+	text-align: center;
+	opacity: 0.85;
+}
+
 .line {
 	color: gray;
 	width: 200px;
+	margin-top: 30px;
 }
 
-.linkedin-logo {
+.social-links {
+	display: flex;
+	justify-content: center;
+	gap: 24px;
+	margin: 30px auto 0;
+}
+
+.social-logo {
 	color: white;
-	font-size:48px;
-	margin: auto;
+	font-size: 48px;
+	text-decoration: none;
 }
